@@ -1,0 +1,3 @@
+model,avg_bleu,avg_latency_s,std_latency_s,num_sentences
+argos_translate,0.5328,0.0814,0.1940,25
+marianmt_opus-mt-en-hi,0.2706,0.1775,0.0729,25

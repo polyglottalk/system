@@ -1,0 +1,23 @@
+trial,clip,transcript,translation,asr_time_s,mt_time_s,tts_time_s,total_e2e_s
+1,clip_01.wav,Hello How are you today?,नमस्ते आज आप कैसे हैं?,0.7864,1.2548,0.8521,2.8933
+2,clip_02.wav,"Good morning, everyone.","गुड मॉर्निंग, हर कोई।",0.8746,0.0643,0.1630,1.1019
+3,clip_03.wav,What is your name?,आपका नाम क्या है?,0.7751,0.0429,0.1626,0.9805
+4,clip_04.wav,I am doing fine thank you,मैं आपको धन्यवाद देता हूँ,0.7565,0.0467,0.1624,0.9657
+5,clip_05.wav,Where is the train station?,ट्रेन स्टेशन कहाँ है?,0.7503,0.0468,0.1634,0.9605
+6,clip_06.wav,Please give me a glass of water.,कृपया मुझे एक गिलास पानी दें।,0.7631,0.0533,0.1625,0.9789
+7,clip_07.wav,The weather is very nice today,मौसम आज बहुत अच्छा है,0.7353,0.0464,0.1625,0.9442
+8,clip_08.wav,I would like to order some food.,मैं कुछ भोजन करना चाहूंगा।,0.7491,0.0616,0.1619,0.9726
+9,clip_09.wav,Can you help me find this address?,क्या आप इस पते को खोजने में मदद कर सकते हैं?,0.7496,0.0784,0.1627,0.9907
+10,clip_10.wav,I need to go to the hospital.,मुझे अस्पताल जाने की जरूरत है।,0.7937,0.0531,0.1627,1.0095
+11,clip_11.wav,The children are playing outside.,बच्चे बाहर खेल रहे हैं।,0.7403,0.0534,0.1619,0.9556
+12,clip_12.wav,She is reading a very interesting book.,वह एक बहुत ही रोचक पुस्तक पढ़ रही है।,0.7380,0.0661,0.1625,0.9666
+13,clip_13.wav,We should leave early tomorrow morning.,हमें कल सुबह जल्दी छोड़ देना चाहिए।,0.7361,0.0672,0.1621,0.9654
+14,clip_14.wav,The restaurant serves excellent food.,रेस्तरां उत्कृष्ट भोजन प्रदान करता है।,0.7308,0.0557,0.1627,0.9492
+15,clip_15.wav,My grandfather told me many stories.,मेरे दादा ने मुझे कई कहानियां सुनाई।,0.8015,0.0854,0.1631,1.0500
+16,clip_16.wav,Education is a powerful weapon.,शिक्षा एक शक्तिशाली हथियार है।,0.8189,0.0506,0.1639,1.0333
+17,clip_17.wav,The train arrives at platform 3.,ट्रेन 3 पर पहुंचती है।,0.7301,0.0554,1.3201,2.1056
+18,clip_18.wav,I have been living here for 5 years.,मैं यहाँ 5 साल तक जीवित रहा हूँ।,0.7361,0.0670,1.4214,2.2245
+19,clip_19.wav,How do I get to the nearest bus stop?,मैं निकटतम बस स्टॉप कैसे प्राप्त करूं?,0.7451,0.0719,0.1618,0.9788
+20,clip_20.wav,The government announced new policies.,सरकार ने नई नीतियों की घोषणा की।,0.7202,0.0613,0.1630,0.9446
+MEAN,,,,0.7615,0.1191,0.3179,1.1986
+STD,,,,0.0366,0.2608,0.3819,0.5268

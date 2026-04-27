@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.pytest_cache/
+dev-clean
+output/
+prompts
+tests/test_output.wav
+
+.env
+*:Zone.Identifier

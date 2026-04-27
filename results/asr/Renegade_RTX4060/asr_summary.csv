@@ -1,0 +1,4 @@
+model,num_clips,random_seed,avg_wer,avg_latency_s,std_latency_s
+tiny.en,500,4122712227,0.0722,0.0758,0.0489
+base.en,500,2374907302,0.0682,0.1243,0.2006
+small.en,500,3487321488,0.0477,0.2068,0.1124

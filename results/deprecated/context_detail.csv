@@ -1,0 +1,11 @@
+sentence_id,source,output_with_context,output_without_context,latency_with_s,latency_without_s,is_repetition_with,is_repetition_without,is_grammar_break_with,is_grammar_break_without
+1,"Hello, I am looking for the train to Delhi.","नमस्ते, मैं दिल्ली में ट्रेन की तलाश कर रहा हूँ।","नमस्ते, मैं दिल्ली में ट्रेन की तलाश कर रहा हूँ।",1.0947,0.0850,False,False,False,False
+2,Can you tell me which platform it leaves from?,क्या आप मुझे बता सकते हैं कि यह किस मंच से निकलता है?,क्या आप मुझे बता सकते हैं कि यह किस मंच से निकलता है?,0.1247,0.0990,False,False,False,False
+3,The train is scheduled to depart at three o'clock.,ट्रेन तीन बजे से प्रस्थान करने के लिए निर्धारित है।,ट्रेन तीन बजे से प्रस्थान करने के लिए निर्धारित है।,0.1664,0.0811,False,False,False,False
+4,Is the ticket counter still open at this hour?,क्या टिकट काउंटर अभी भी इस घंटे खुला है?,क्या टिकट काउंटर अभी भी इस घंटे खुला है?,0.1398,0.0759,False,False,False,False
+5,I need to buy two tickets for my family.,मुझे अपने परिवार के लिए दो टिकट खरीदने की आवश्यकता है।,मुझे अपने परिवार के लिए दो टिकट खरीदने की आवश्यकता है।,0.1219,0.0791,False,False,False,False
+6,How long does the journey from here to Delhi take?,दिल्ली जाने के लिए यहां से कितने समय तक यात्रा की जाती है?,दिल्ली जाने के लिए यहां से कितने समय तक यात्रा की जाती है?,0.1320,0.0892,False,False,False,False
+7,The express train takes about four hours.,एक्सप्रेस ट्रेन में लगभग चार घंटे लगते हैं।,एक्सप्रेस ट्रेन लगभग चार घंटे लगते हैं।,0.1310,0.0654,False,False,False,False
+8,"Thank you for your help, I really appreciate it.","आपकी मदद के लिए धन्यवाद, मैं वास्तव में इसकी सराहना करता हूँ।","आपकी मदद के लिए धन्यवाद, मैं वास्तव में इसकी सराहना करता हूँ।",0.1309,0.0930,False,False,False,False
+9,Where can I find a good restaurant near the station?,मुझे स्टेशन के पास एक अच्छा रेस्तरां कहाँ मिल सकता है?,मुझे स्टेशन के पास एक अच्छा रेस्तरां कहाँ मिल सकता है?,0.1304,0.0817,False,False,False,False
+10,I will wait here until the train arrives.,जब तक ट्रेन आती है तब तक मैं यहां इंतजार करूंगा।,जब तक ट्रेन आती है तब तक मैं यहां इंतजार करूंगा।,0.1366,0.0935,False,False,False,False

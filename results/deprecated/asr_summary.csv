@@ -1,0 +1,4 @@
+model,avg_wer,avg_latency_s,std_latency_s,num_clips
+tiny.en,0.1964,0.4048,0.0244,25
+base.en,0.1818,0.8262,0.0153,25
+small.en,0.1724,2.6037,0.0469,25

@@ -1,0 +1,51 @@
+model,sentence_id,source,reference,hypothesis,bleu,latency_s
+argos_translate,1,"Hello, how are you?","नमस्ते, आप कैसे हैं?","नमस्कार, आप कैसे हैं?",0.7598,1.9265
+argos_translate,2,Good morning.,सुप्रभात।,गुड मॉर्निंग,0.0000,0.0411
+argos_translate,3,What is your name?,आपका नाम क्या है?,आपका नाम क्या है?,1.0000,0.0457
+argos_translate,4,"I am fine, thank you.","मैं ठीक हूँ, धन्यवाद।","मैं ठीक हूँ, धन्यवाद।",1.0000,0.0556
+argos_translate,5,Where is the train station?,रेलवे स्टेशन कहाँ है?,ट्रेन स्टेशन कहाँ है?,0.6687,0.0475
+argos_translate,6,Please give me a glass of water.,कृपया मुझे एक गिलास पानी दीजिए।,कृपया मुझे एक गिलास पानी दें।,0.7598,0.0582
+argos_translate,7,The weather is very nice today.,आज मौसम बहुत अच्छा है।,मौसम आज बहुत अच्छा है।,0.4518,0.0536
+argos_translate,8,I would like to order some food.,मैं कुछ खाना ऑर्डर करना चाहूँगा।,मैं कुछ भोजन करना चाहूंगा।,0.1936,0.0685
+argos_translate,9,Can you help me find this address?,क्या आप मुझे यह पता खोजने में मदद कर सकते हैं?,क्या आप इस पते को खोजने में मदद कर सकते हैं?,0.5707,0.0866
+argos_translate,10,I need to go to the hospital immediately.,मुझे तुरंत अस्पताल जाना है।,मुझे तुरंत अस्पताल जाने की जरूरत है।,0.2627,0.0648
+argos_translate,11,The children are playing in the garden.,बच्चे बगीचे में खेल रहे हैं।,बच्चे बगीचे में खेल रहे हैं।,1.0000,0.0614
+argos_translate,12,She is reading a very interesting book about history.,वह इतिहास के बारे में एक बहुत दिलचस्प किताब पढ़ रही है।,वह इतिहास के बारे में एक बहुत ही रोचक पुस्तक पढ़ रही है।,0.5784,0.0984
+argos_translate,13,We should leave early tomorrow morning to avoid traffic.,हमें कल सुबह जल्दी निकलना चाहिए ताकि ट्रैफिक से बचा जा सके।,हमें यातायात से बचने के लिए कल सुबह छोड़ देना चाहिए।,0.0814,0.0901
+argos_translate,14,The restaurant on the corner serves excellent Indian food.,कोने पर रेस्तरां उत्कृष्ट भारतीय खाना परोसता है।,कोने पर रेस्तरां उत्कृष्ट भारतीय भोजन का कार्य करता है।,0.4111,0.0792
+argos_translate,15,My grandfather told me many stories about his childhood.,मेरे दादाजी ने मुझे अपने बचपन की कई कहानियाँ सुनाईं।,मेरे दादा ने मुझे अपने बचपन के बारे में कई कहानियां सुनाई।,0.2346,0.1039
+argos_translate,16,Education is the most powerful weapon which you can use to change the world.,शिक्षा सबसे शक्तिशाली हथियार है जिससे आप दुनिया बदल सकते हैं।,शिक्षा सबसे शक्तिशाली हथियार है जिसका उपयोग आप दुनिया को बदलने के लिए कर सकते हैं।,0.2935,0.1169
+argos_translate,17,The train will arrive at platform number three in about ten minutes.,ट्रेन लगभग दस मिनट में प्लेटफॉर्म नंबर तीन पर आएगी।,ट्रेन लगभग दस मिनट में तीन प्लेटफॉर्म नंबर पर पहुंच जाएगी।,0.4297,0.0861
+argos_translate,18,I have been living in this city for more than five years now.,मैं इस शहर में पाँच साल से अधिक समय से रह रहा हूँ।,मैं इस शहर में पांच साल से अधिक समय तक रह रहा हूँ।,0.4759,0.1002
+argos_translate,19,Could you please tell me how to get to the nearest bus stop from here?,क्या आप कृपया मुझे बता सकते हैं कि यहाँ से निकटतम बस स्टॉप कैसे पहुँचें?,क्या आप मुझे बता सकते हैं कि कैसे यहां से निकटतम बस स्टॉप पर जाएं?,0.4347,0.1239
+argos_translate,20,The government announced new policies to improve the healthcare system in rural areas.,सरकार ने ग्रामीण क्षेत्रों में स्वास्थ्य सेवा प्रणाली में सुधार के लिए नई नीतियों की घोषणा की।,सरकार ने ग्रामीण क्षेत्रों में स्वास्थ्य देखभाल प्रणाली को बेहतर बनाने के लिए नई नीतियों की घोषणा की।,0.6029,0.1282
+argos_translate,21,Technology has transformed the way we communicate with each other in the modern world.,प्रौद्योगिकी ने आधुनिक दुनिया में हमारे एक दूसरे से संवाद करने के तरीके को बदल दिया है।,प्रौद्योगिकी ने आधुनिक दुनिया में एक दूसरे के साथ संवाद करने के तरीके को बदल दिया है।,0.6675,0.1214
+argos_translate,22,The old man sitting on the bench was feeding bread crumbs to the pigeons in the park.,बेंच पर बैठा बूढ़ा आदमी पार्क में कबूतरों को रोटी के टुकड़े खिला रहा था।,बेंच पर बैठे पुराने व्यक्ति पार्क में कबूतरों को रोटी के टुकड़ों को खिला रहा था।,0.4169,0.1363
+argos_translate,23,"Despite the heavy rain, the farmers continued working in their fields to harvest the crops on time.","भारी बारिश के बावजूद, किसानों ने समय पर फसल काटने के लिए अपने खेतों में काम करना जारी रखा।","भारी बारिश के बावजूद, किसान समय पर फसलों की कटाई के लिए अपने खेतों में काम करना जारी रखा।",0.6151,0.1539
+argos_translate,24,The scientists at the research institute have made a breakthrough discovery in renewable energy.,अनुसंधान संस्थान के वैज्ञानिकों ने नवीकरणीय ऊर्जा में एक महत्वपूर्ण खोज की है।,अनुसंधान संस्थान के वैज्ञानिकों ने अक्षय ऊर्जा में सफलता की खोज की है।,0.4250,0.1058
+argos_translate,25,Students from different countries participated in the international science competition held last week.,पिछले सप्ताह आयोजित अंतरराष्ट्रीय विज्ञान प्रतियोगिता में विभिन्न देशों के छात्रों ने भाग लिया।,विभिन्न देशों के छात्रों ने पिछले सप्ताह आयोजित अंतरराष्ट्रीय विज्ञान प्रतियोगिता में भाग लिया।,0.7448,0.1024
+marianmt_opus-mt-en-hi,1,"Hello, how are you?","नमस्ते, आप कैसे हैं?","हैलो, तुम कैसे हो?",0.1068,0.2489
+marianmt_opus-mt-en-hi,2,Good morning.,सुप्रभात।,सुप्रभात.,0.0000,0.0875
+marianmt_opus-mt-en-hi,3,What is your name?,आपका नाम क्या है?,आपका Windows Live कूटशब्द क्या है?,0.2627,0.2056
+marianmt_opus-mt-en-hi,4,"I am fine, thank you.","मैं ठीक हूँ, धन्यवाद।","मैं ठीक हूँ, धन्यवाद.",0.5081,0.1657
+marianmt_opus-mt-en-hi,5,Where is the train station?,रेलवे स्टेशन कहाँ है?,स्टेशन कहाँ है?,0.7788,0.1243
+marianmt_opus-mt-en-hi,6,Please give me a glass of water.,कृपया मुझे एक गिलास पानी दीजिए।,कृपया मुझे पानी का एक गिलास दे.,0.1652,0.2058
+marianmt_opus-mt-en-hi,7,The weather is very nice today.,आज मौसम बहुत अच्छा है।,मौसम बहुत अच्छा है आज.,0.3247,0.1646
+marianmt_opus-mt-en-hi,8,I would like to order some food.,मैं कुछ खाना ऑर्डर करना चाहूँगा।,मैं कुछ भोजन आदेश करना चाहते हैं.,0.1222,0.2068
+marianmt_opus-mt-en-hi,9,Can you help me find this address?,क्या आप मुझे यह पता खोजने में मदद कर सकते हैं?,क्या तुम मुझे इस पते को खोजने में मदद कर सकते हो?,0.3252,0.3085
+marianmt_opus-mt-en-hi,10,I need to go to the hospital immediately.,मुझे तुरंत अस्पताल जाना है।,मैं तुरंत अस्पताल जाना है.,0.3021,0.1682
+marianmt_opus-mt-en-hi,11,The children are playing in the garden.,बच्चे बगीचे में खेल रहे हैं।,बच्चे बगीचे में खेल रहे हैं.,0.6148,0.1804
+marianmt_opus-mt-en-hi,12,She is reading a very interesting book about history.,वह इतिहास के बारे में एक बहुत दिलचस्प किताब पढ़ रही है।,वह इतिहास के बारे में एक बहुत दिलचस्प किताब पढ़ रही है.,0.8242,0.3089
+marianmt_opus-mt-en-hi,13,We should leave early tomorrow morning to avoid traffic.,हमें कल सुबह जल्दी निकलना चाहिए ताकि ट्रैफिक से बचा जा सके।,हमें कल सुबह यातायात से दूर रहना चाहिए ।,0.1445,0.2312
+marianmt_opus-mt-en-hi,14,The restaurant on the corner serves excellent Indian food.,कोने पर रेस्तरां उत्कृष्ट भारतीय खाना परोसता है।,उस वक्‍त के कोने में एक रेस्तराँ बहुत बढ़िया भारतीय भोजन देता है ।,0.0338,0.3853
+marianmt_opus-mt-en-hi,15,My grandfather told me many stories about his childhood.,मेरे दादाजी ने मुझे अपने बचपन की कई कहानियाँ सुनाईं।,मेरे दादा ने मुझे बचपन के बारे में कई कहानियाँ बतायीं ।,0.1060,0.3049
+marianmt_opus-mt-en-hi,16,Education is the most powerful weapon which you can use to change the world.,शिक्षा सबसे शक्तिशाली हथियार है जिससे आप दुनिया बदल सकते हैं।,शिक्षा सबसे शक्तिशाली हथियार है जिसका आप दुनिया को बदलने के लिए उपयोग कर सकते हैं।,0.2935,0.4182
+marianmt_opus-mt-en-hi,17,The train will arrive at platform number three in about ten minutes.,ट्रेन लगभग दस मिनट में प्लेटफॉर्म नंबर तीन पर आएगी।,ट्रेन करीब दस मिनट में तीन मंच पर पहुँच जाएगी ।,0.1659,0.2784
+marianmt_opus-mt-en-hi,18,I have been living in this city for more than five years now.,मैं इस शहर में पाँच साल से अधिक समय से रह रहा हूँ।,मैं इस शहर में अब पाँच से भी ज़्यादा साल से रह रहा हूँ ।,0.2723,0.3565
+marianmt_opus-mt-en-hi,19,Could you please tell me how to get to the nearest bus stop from here?,क्या आप कृपया मुझे बता सकते हैं कि यहाँ से निकटतम बस स्टॉप कैसे पहुँचें?,क्या आप मुझे बता सकते हैं कि यहाँ से निकटतम बस बंद करने के लिए कैसे?,0.5416,0.4075
+marianmt_opus-mt-en-hi,20,The government announced new policies to improve the healthcare system in rural areas.,सरकार ने ग्रामीण क्षेत्रों में स्वास्थ्य सेवा प्रणाली में सुधार के लिए नई नीतियों की घोषणा की।,सरकार ने ग्रामीण क्षेत्रों में स्वास्थ्य की देखभाल प्रणाली को बेहतर बनाने के लिए नए नीति - कानून घोषित किए ।,0.2661,0.4981
+marianmt_opus-mt-en-hi,21,Technology has transformed the way we communicate with each other in the modern world.,प्रौद्योगिकी ने आधुनिक दुनिया में हमारे एक दूसरे से संवाद करने के तरीके को बदल दिया है।,"आज के ज़माने में तक तक सामग्री की मदद से हम जिस तरह एक - दूसरे से बातचीत करते हैं, वह बदल गया है ।",0.0380,0.6168
+marianmt_opus-mt-en-hi,22,The old man sitting on the bench was feeding bread crumbs to the pigeons in the park.,बेंच पर बैठा बूढ़ा आदमी पार्क में कबूतरों को रोटी के टुकड़े खिला रहा था।,वह आदमी उस खेत में कबूतर के लिए रोटी का खाना खिला रहा था ।,0.0692,0.3687
+marianmt_opus-mt-en-hi,23,"Despite the heavy rain, the farmers continued working in their fields to harvest the crops on time.","भारी बारिश के बावजूद, किसानों ने समय पर फसल काटने के लिए अपने खेतों में काम करना जारी रखा।","फिर भी, किसान अपने खेतों में समय पर फसल काटने के लिए काम करते रहे ।",0.3161,0.4586
+marianmt_opus-mt-en-hi,24,The scientists at the research institute have made a breakthrough discovery in renewable energy.,अनुसंधान संस्थान के वैज्ञानिकों ने नवीकरणीय ऊर्जा में एक महत्वपूर्ण खोज की है।,खोजबीन विभाग के वैज्ञानिकों ने नयी - नयी शक्‍ति हासिल की है ।,0.1236,0.4178
+marianmt_opus-mt-en-hi,25,Students from different countries participated in the international science competition held last week.,पिछले सप्ताह आयोजित अंतरराष्ट्रीय विज्ञान प्रतियोगिता में विभिन्न देशों के छात्रों ने भाग लिया।,पिछले हफ्ते अलग - अलग देशों से विद्यार्थियों ने अंतर्राष्ट्रीय विज्ञान की प्रतियोगिता में हिस्सा लिया ।,0.0602,0.4180

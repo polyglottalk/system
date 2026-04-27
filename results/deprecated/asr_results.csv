@@ -1,0 +1,76 @@
+model,clip,ground_truth,hypothesis,wer,latency_s
+tiny.en,clip_01.wav,Hello how are you today,"Hello, how are you today?",0.4000,0.5064
+tiny.en,clip_02.wav,Good morning everyone,Good morning everyone.,0.3333,0.3871
+tiny.en,clip_03.wav,What is your name,What is your name?,0.2500,0.4127
+tiny.en,clip_04.wav,I am doing fine thank you,"I am doing fine, thank you.",0.3333,0.4034
+tiny.en,clip_05.wav,Where is the train station,Where is the train station?,0.2000,0.3937
+tiny.en,clip_06.wav,Please give me a glass of water,Please give me a glass of water.,0.1429,0.3995
+tiny.en,clip_07.wav,The weather is very nice today,The weather is very nice today.,0.1667,0.3995
+tiny.en,clip_08.wav,I would like to order some food,I would like to order some food.,0.1429,0.3971
+tiny.en,clip_09.wav,Can you help me find this address,Can you help me find this address?,0.1429,0.3982
+tiny.en,clip_10.wav,I need to go to the hospital,I need to go to the hospital.,0.1429,0.4065
+tiny.en,clip_11.wav,The children are playing outside,The children are playing outside.,0.2000,0.3991
+tiny.en,clip_12.wav,She is reading a very interesting book,She is reading a very interesting book.,0.1429,0.4008
+tiny.en,clip_13.wav,We should leave early tomorrow morning,We should leave early tomorrow morning.,0.1667,0.3944
+tiny.en,clip_14.wav,The restaurant serves excellent food,The restaurant serves excellent food.,0.2000,0.3828
+tiny.en,clip_15.wav,My grandfather told me many stories,My grandfather told me many stories.,0.1667,0.3907
+tiny.en,clip_16.wav,Education is a powerful weapon,Education is a powerful weapon.,0.2000,0.3848
+tiny.en,clip_17.wav,The train arrives at platform three,The train arrives at platform 3.,0.1667,0.3973
+tiny.en,clip_18.wav,I have been living here for five years,I have been living here for 5 years.,0.2500,0.4024
+tiny.en,clip_19.wav,How do I get to the nearest bus stop,How do I get to the nearest bus stop?,0.1111,0.4127
+tiny.en,clip_20.wav,The government announced new policies,The government announced new policies.,0.2000,0.4009
+tiny.en,clip_21.wav,Technology has changed how we communicate,Technology has changed how we communicate.,0.1667,0.4073
+tiny.en,clip_22.wav,The old man was feeding the birds,The old man was feeding the birds.,0.1429,0.4346
+tiny.en,clip_23.wav,The farmers continued working in the fields,The farmers continued working in the fields.,0.1429,0.4365
+tiny.en,clip_24.wav,Scientists made a breakthrough discovery,Scientists made a breakthrough discovery.,0.2000,0.3884
+tiny.en,clip_25.wav,Students participated in the competition,Students participated in the competition.,0.2000,0.3845
+base.en,clip_01.wav,Hello how are you today,Hello How are you today?,0.2000,0.8479
+base.en,clip_02.wav,Good morning everyone,"Good morning, everyone.",0.6667,0.8228
+base.en,clip_03.wav,What is your name,What is your name?,0.2500,0.8577
+base.en,clip_04.wav,I am doing fine thank you,I am doing fine thank you,0.0000,0.8217
+base.en,clip_05.wav,Where is the train station,Where is the train station?,0.2000,0.8088
+base.en,clip_06.wav,Please give me a glass of water,Please give me a glass of water.,0.1429,0.8520
+base.en,clip_07.wav,The weather is very nice today,The weather is very nice today,0.0000,0.8097
+base.en,clip_08.wav,I would like to order some food,I would like to order some food.,0.1429,0.8393
+base.en,clip_09.wav,Can you help me find this address,Can you help me find this address?,0.1429,0.8345
+base.en,clip_10.wav,I need to go to the hospital,I need to go to the hospital.,0.1429,0.8220
+base.en,clip_11.wav,The children are playing outside,The children are playing outside.,0.2000,0.8120
+base.en,clip_12.wav,She is reading a very interesting book,She is reading a very interesting book.,0.1429,0.8251
+base.en,clip_13.wav,We should leave early tomorrow morning,We should leave early tomorrow morning.,0.1667,0.8160
+base.en,clip_14.wav,The restaurant serves excellent food,The restaurant serves excellent food.,0.2000,0.8064
+base.en,clip_15.wav,My grandfather told me many stories,My grandfather told me many stories.,0.1667,0.8169
+base.en,clip_16.wav,Education is a powerful weapon,Education is a powerful weapon.,0.2000,0.8035
+base.en,clip_17.wav,The train arrives at platform three,The train arrives at platform 3.,0.1667,0.8279
+base.en,clip_18.wav,I have been living here for five years,I have been living here for 5 years.,0.2500,0.8385
+base.en,clip_19.wav,How do I get to the nearest bus stop,How do I get to the nearest bus stop?,0.1111,0.8437
+base.en,clip_20.wav,The government announced new policies,The government announced new policies.,0.2000,0.8090
+base.en,clip_21.wav,Technology has changed how we communicate,Technology has changed how we communicate.,0.1667,0.8153
+base.en,clip_22.wav,The old man was feeding the birds,The old man was feeding the birds.,0.1429,0.8486
+base.en,clip_23.wav,The farmers continued working in the fields,The farmers continued working in the fields.,0.1429,0.8348
+base.en,clip_24.wav,Scientists made a breakthrough discovery,Scientists made a breakthrough discovery.,0.2000,0.8197
+base.en,clip_25.wav,Students participated in the competition,Students participated in the competition.,0.2000,0.8203
+small.en,clip_01.wav,Hello how are you today,"Hello, how are you today?",0.4000,2.7699
+small.en,clip_02.wav,Good morning everyone,Good morning everyone.,0.3333,2.5296
+small.en,clip_03.wav,What is your name,What is your name?,0.2500,2.5458
+small.en,clip_04.wav,I am doing fine thank you,I am doing fine thank you,0.0000,2.5710
+small.en,clip_05.wav,Where is the train station,Where is the train station?,0.2000,2.6247
+small.en,clip_06.wav,Please give me a glass of water,Please give me a glass of water.,0.1429,2.5994
+small.en,clip_07.wav,The weather is very nice today,The weather is very nice today.,0.1667,2.5934
+small.en,clip_08.wav,I would like to order some food,I would like to order some food.,0.1429,2.6179
+small.en,clip_09.wav,Can you help me find this address,Can you help me find this address?,0.1429,2.5713
+small.en,clip_10.wav,I need to go to the hospital,I need to go to the hospital.,0.1429,2.6677
+small.en,clip_11.wav,The children are playing outside,The children are playing outside.,0.2000,2.6441
+small.en,clip_12.wav,She is reading a very interesting book,She is reading a very interesting book,0.0000,2.5791
+small.en,clip_13.wav,We should leave early tomorrow morning,We should leave early tomorrow morning.,0.1667,2.5891
+small.en,clip_14.wav,The restaurant serves excellent food,The restaurant serves excellent food.,0.2000,2.5751
+small.en,clip_15.wav,My grandfather told me many stories,My grandfather told me many stories.,0.1667,2.5543
+small.en,clip_16.wav,Education is a powerful weapon,Education is a powerful weapon.,0.2000,2.6226
+small.en,clip_17.wav,The train arrives at platform three,The train arrives at Platform 3.,0.1667,2.6028
+small.en,clip_18.wav,I have been living here for five years,I have been living here for five years.,0.1250,2.6159
+small.en,clip_19.wav,How do I get to the nearest bus stop,How do I get to the nearest bus stop?,0.1111,2.6450
+small.en,clip_20.wav,The government announced new policies,The government announced new policies.,0.2000,2.5710
+small.en,clip_21.wav,Technology has changed how we communicate,Technology has changed how we communicate.,0.1667,2.6293
+small.en,clip_22.wav,The old man was feeding the birds,The old man was feeding the birds.,0.1429,2.6069
+small.en,clip_23.wav,The farmers continued working in the fields,The farmers continued working in the fields.,0.1429,2.6068
+small.en,clip_24.wav,Scientists made a breakthrough discovery,Scientists made a breakthrough discovery.,0.2000,2.6003
+small.en,clip_25.wav,Students participated in the competition,Students participated in the competition.,0.2000,2.5606

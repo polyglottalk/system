@@ -1,0 +1,29 @@
+# English source sentence | Hindi reference translation
+# Format: english_sentence|hindi_reference
+# 25 sentences of varied length and complexity
+
+Hello, how are you?|नमस्ते, आप कैसे हैं?
+Good morning.|सुप्रभात।
+What is your name?|आपका नाम क्या है?
+I am fine, thank you.|मैं ठीक हूँ, धन्यवाद।
+Where is the train station?|रेलवे स्टेशन कहाँ है?
+Please give me a glass of water.|कृपया मुझे एक गिलास पानी दीजिए।
+The weather is very nice today.|आज मौसम बहुत अच्छा है।
+I would like to order some food.|मैं कुछ खाना ऑर्डर करना चाहूँगा।
+Can you help me find this address?|क्या आप मुझे यह पता खोजने में मदद कर सकते हैं?
+I need to go to the hospital immediately.|मुझे तुरंत अस्पताल जाना है।
+The children are playing in the garden.|बच्चे बगीचे में खेल रहे हैं।
+She is reading a very interesting book about history.|वह इतिहास के बारे में एक बहुत दिलचस्प किताब पढ़ रही है।
+We should leave early tomorrow morning to avoid traffic.|हमें कल सुबह जल्दी निकलना चाहिए ताकि ट्रैफिक से बचा जा सके।
+The restaurant on the corner serves excellent Indian food.|कोने पर रेस्तरां उत्कृष्ट भारतीय खाना परोसता है।
+My grandfather told me many stories about his childhood.|मेरे दादाजी ने मुझे अपने बचपन की कई कहानियाँ सुनाईं।
+Education is the most powerful weapon which you can use to change the world.|शिक्षा सबसे शक्तिशाली हथियार है जिससे आप दुनिया बदल सकते हैं।
+The train will arrive at platform number three in about ten minutes.|ट्रेन लगभग दस मिनट में प्लेटफॉर्म नंबर तीन पर आएगी।
+I have been living in this city for more than five years now.|मैं इस शहर में पाँच साल से अधिक समय से रह रहा हूँ।
+Could you please tell me how to get to the nearest bus stop from here?|क्या आप कृपया मुझे बता सकते हैं कि यहाँ से निकटतम बस स्टॉप कैसे पहुँचें?
+The government announced new policies to improve the healthcare system in rural areas.|सरकार ने ग्रामीण क्षेत्रों में स्वास्थ्य सेवा प्रणाली में सुधार के लिए नई नीतियों की घोषणा की।
+Technology has transformed the way we communicate with each other in the modern world.|प्रौद्योगिकी ने आधुनिक दुनिया में हमारे एक दूसरे से संवाद करने के तरीके को बदल दिया है।
+The old man sitting on the bench was feeding bread crumbs to the pigeons in the park.|बेंच पर बैठा बूढ़ा आदमी पार्क में कबूतरों को रोटी के टुकड़े खिला रहा था।
+Despite the heavy rain, the farmers continued working in their fields to harvest the crops on time.|भारी बारिश के बावजूद, किसानों ने समय पर फसल काटने के लिए अपने खेतों में काम करना जारी रखा।
+The scientists at the research institute have made a breakthrough discovery in renewable energy.|अनुसंधान संस्थान के वैज्ञानिकों ने नवीकरणीय ऊर्जा में एक महत्वपूर्ण खोज की है।
+Students from different countries participated in the international science competition held last week.|पिछले सप्ताह आयोजित अंतरराष्ट्रीय विज्ञान प्रतियोगिता में विभिन्न देशों के छात्रों ने भाग लिया।
